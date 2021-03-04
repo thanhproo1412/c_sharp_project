@@ -1,0 +1,16 @@
+F:\Hai Thanh\C#_project\Project\nhap_diem\nhap_diem\bin\Debug\net5.0\nhap_diem.exe
+F:\Hai Thanh\C#_project\Project\nhap_diem\nhap_diem\bin\Debug\net5.0\nhap_diem.deps.json
+F:\Hai Thanh\C#_project\Project\nhap_diem\nhap_diem\bin\Debug\net5.0\nhap_diem.runtimeconfig.json
+F:\Hai Thanh\C#_project\Project\nhap_diem\nhap_diem\bin\Debug\net5.0\nhap_diem.runtimeconfig.dev.json
+F:\Hai Thanh\C#_project\Project\nhap_diem\nhap_diem\bin\Debug\net5.0\nhap_diem.dll
+F:\Hai Thanh\C#_project\Project\nhap_diem\nhap_diem\bin\Debug\net5.0\ref\nhap_diem.dll
+F:\Hai Thanh\C#_project\Project\nhap_diem\nhap_diem\bin\Debug\net5.0\nhap_diem.pdb
+F:\Hai Thanh\C#_project\Project\nhap_diem\nhap_diem\obj\Debug\net5.0\nhap_diem.csprojAssemblyReference.cache
+F:\Hai Thanh\C#_project\Project\nhap_diem\nhap_diem\obj\Debug\net5.0\nhap_diem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hai Thanh\C#_project\Project\nhap_diem\nhap_diem\obj\Debug\net5.0\nhap_diem.AssemblyInfoInputs.cache
+F:\Hai Thanh\C#_project\Project\nhap_diem\nhap_diem\obj\Debug\net5.0\nhap_diem.AssemblyInfo.cs
+F:\Hai Thanh\C#_project\Project\nhap_diem\nhap_diem\obj\Debug\net5.0\nhap_diem.csproj.CoreCompileInputs.cache
+F:\Hai Thanh\C#_project\Project\nhap_diem\nhap_diem\obj\Debug\net5.0\nhap_diem.dll
+F:\Hai Thanh\C#_project\Project\nhap_diem\nhap_diem\obj\Debug\net5.0\ref\nhap_diem.dll
+F:\Hai Thanh\C#_project\Project\nhap_diem\nhap_diem\obj\Debug\net5.0\nhap_diem.pdb
+F:\Hai Thanh\C#_project\Project\nhap_diem\nhap_diem\obj\Debug\net5.0\nhap_diem.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\Hai Thanh\C#_project\Project\First_project\First_project\bin\Debug\net5.0\First_project.exe
+F:\Hai Thanh\C#_project\Project\First_project\First_project\bin\Debug\net5.0\First_project.deps.json
+F:\Hai Thanh\C#_project\Project\First_project\First_project\bin\Debug\net5.0\First_project.runtimeconfig.json
+F:\Hai Thanh\C#_project\Project\First_project\First_project\bin\Debug\net5.0\First_project.runtimeconfig.dev.json
+F:\Hai Thanh\C#_project\Project\First_project\First_project\bin\Debug\net5.0\First_project.dll
+F:\Hai Thanh\C#_project\Project\First_project\First_project\bin\Debug\net5.0\ref\First_project.dll
+F:\Hai Thanh\C#_project\Project\First_project\First_project\bin\Debug\net5.0\First_project.pdb
+F:\Hai Thanh\C#_project\Project\First_project\First_project\obj\Debug\net5.0\First_project.csprojAssemblyReference.cache
+F:\Hai Thanh\C#_project\Project\First_project\First_project\obj\Debug\net5.0\First_project.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hai Thanh\C#_project\Project\First_project\First_project\obj\Debug\net5.0\First_project.AssemblyInfoInputs.cache
+F:\Hai Thanh\C#_project\Project\First_project\First_project\obj\Debug\net5.0\First_project.AssemblyInfo.cs
+F:\Hai Thanh\C#_project\Project\First_project\First_project\obj\Debug\net5.0\First_project.csproj.CoreCompileInputs.cache
+F:\Hai Thanh\C#_project\Project\First_project\First_project\obj\Debug\net5.0\First_project.dll
+F:\Hai Thanh\C#_project\Project\First_project\First_project\obj\Debug\net5.0\ref\First_project.dll
+F:\Hai Thanh\C#_project\Project\First_project\First_project\obj\Debug\net5.0\First_project.pdb
+F:\Hai Thanh\C#_project\Project\First_project\First_project\obj\Debug\net5.0\First_project.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "nhap_diem/1.0.0": {
+        "runtime": {
+          "nhap_diem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nhap_diem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
